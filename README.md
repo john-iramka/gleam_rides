@@ -1,24 +1,17 @@
-# Gleam Rides
+# gleam_rides
 
-Welcome to Gleam Rides!  
-This repository contains the codebase for the Gleam Rides project.
+Welcome to the gleam_rides project!
+
+This repository is set up for a Flutter/Dart application.  
+You’ll find a `.gitignore` optimized for mobile app development.
 
 ## Getting Started
 
-To get started with development, ensure you have [Flutter](https://flutter.dev/docs/get-started/install) installed.
-
-## Project Structure
-
-- `/lib`: Main source code for the app
-- `/test`: Unit and widget tests
-- `/assets`: Images and other assets
-
-## Setup
-
-1. Clone the repository
-2. Run `flutter pub get` to install dependencies
-3. Start coding!
+1. Install Flutter: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+2. Clone this repository.
+3. Run `flutter pub get` to fetch dependencies.
+4. Happy coding!
 
 ---
 
-Feel free to update this README with more details about the project.
+Feel free to update this README with more project details!
